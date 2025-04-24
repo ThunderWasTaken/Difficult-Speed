@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Thunder's Speed",
+        "modifier": 1.0,
+        "productionCostModifier": 0.67,
+        "goldCostModifier": 0.67,
+        "scienceCostModifier": 1.5,
+        "cultureCostModifier": 0.75,
+        "faithCostModifier": 0.75,
+        "improvementBuildLengthModifier": 0.67,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 1.0,
+        "cityStateTributeScalingInterval": 5.0,
+        "goldenAgeLengthModifier": 1.0,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 10,
+        "dealDuration": 30,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":  1, "untilTurn": 75},
+            {"yearsPerTurn":  1, "untilTurn": 135},
+            {"yearsPerTurn":  1, "untilTurn": 160},
+            {"yearsPerTurn":  1, "untilTurn": 210},
+            {"yearsPerTurn":   1, "untilTurn": 270},
+            {"yearsPerTurn":   1, "untilTurn": 320},
+            {"yearsPerTurn":   1, "untilTurn": 440},
+            {"yearsPerTurn": 0.5, "untilTurn": 500}
+        ]
+    }
+]

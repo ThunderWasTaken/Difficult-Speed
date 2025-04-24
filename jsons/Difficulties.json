@@ -1,1 +1,32 @@
-placeholder
+[
+	{
+		"name": "Prince",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.5,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+        "aiDifficultyLevel": "Prince",
+		"aiCityGrowthModifier": 1,
+		"aiUnitCostModifier": 1.1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1.1,
+		"aiBuildingMaintenanceModifier": 0.75,
+		"aiUnitMaintenanceModifier": 0.75,
+		"aiUnitSupplyModifier": 0.5,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": ["Worker", "Warrior"],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 10,
+		"clearBarbarianCampReward": 30
+	}
+]

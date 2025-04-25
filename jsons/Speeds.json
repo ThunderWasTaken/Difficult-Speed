@@ -1,13 +1,13 @@
 [
     {
-        "name": "Thunder's Speed",
+        "name": "Thunder's Standard",
         "modifier": 1.0,
-        "productionCostModifier": 0.67,
-        "goldCostModifier": 0.67,
-        "scienceCostModifier": 1.5,
+        "productionCostModifier": 0.75,
+        "goldCostModifier": 0.75,
+        "scienceCostModifier": 1.33,
         "cultureCostModifier": 0.75,
-        "faithCostModifier": 0.75,
-        "improvementBuildLengthModifier": 0.67,
+        "faithCostModifier": 1,
+        "improvementBuildLengthModifier": 0.75,
         "barbarianModifier": 1.0,
         "goldGiftModifier": 1.0,
         "cityStateTributeScalingInterval": 5.0,
@@ -17,12 +17,12 @@
         "dealDuration": 30,
         "startYear": -4000,
         "turns": [
-            {"yearsPerTurn":  1, "untilTurn": 75},
-            {"yearsPerTurn":  1, "untilTurn": 135},
-            {"yearsPerTurn":  1, "untilTurn": 160},
-            {"yearsPerTurn":  1, "untilTurn": 210},
-            {"yearsPerTurn":   1, "untilTurn": 270},
-            {"yearsPerTurn":   1, "untilTurn": 320},
+            {"yearsPerTurn":  40, "untilTurn": 75},
+            {"yearsPerTurn":  25, "untilTurn": 135},
+            {"yearsPerTurn":  20, "untilTurn": 160},
+            {"yearsPerTurn":  10, "untilTurn": 210},
+            {"yearsPerTurn":   5, "untilTurn": 270},
+            {"yearsPerTurn":   2, "untilTurn": 320},
             {"yearsPerTurn":   1, "untilTurn": 440},
             {"yearsPerTurn": 0.5, "untilTurn": 500}
         ]

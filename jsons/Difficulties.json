@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Thunder's Prince",
-		"baseHappiness": 9,
+		"baseHappiness": 10,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
@@ -15,17 +15,17 @@
 		"playerBonusStartingUnits": [],
         "aiDifficultyLevel": "Prince",
 		"aiCityGrowthModifier": 1,
-		"aiUnitCostModifier": 1.1,
+		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
-		"aiWonderCostModifier": 1.1,
-		"aiBuildingMaintenanceModifier": 0.75,
-		"aiUnitMaintenanceModifier": 0.75,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 0.5,
 		"aiUnitSupplyModifier": 0.5,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": ["Worker", "Warrior"],
 		"aiUnhappinessModifier": 1,
-		"aisExchangeTechs": true,
+		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 10,
 		"clearBarbarianCampReward": 30
 	}

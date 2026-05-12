@@ -26,5 +26,32 @@
             {"yearsPerTurn":   1, "untilTurn": 440},
             {"yearsPerTurn": 0.5, "untilTurn": 500}
         ]
+    },
+    {
+        "name": "TC Epic",
+        "modifier": 1.5,
+        "productionCostModifier": 1,
+        "goldCostModifier": 1,
+        "scienceCostModifier": 1.5,
+        "cultureCostModifier": 1.25,
+        "faithCostModifier": 1.25,
+        "improvementBuildLengthModifier": 1,
+        "barbarianModifier": 1,
+        "goldGiftModifier": 1,
+        "cityStateTributeScalingInterval": 10.0,
+        "goldenAgeLengthModifier": 1.25,
+        "religiousPressureAdjacentCity": 6,
+        "peaceDealDuration": 10,
+        "dealDuration": 30,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":  25, "untilTurn": 140},
+            {"yearsPerTurn":  15, "untilTurn": 230},
+            {"yearsPerTurn":  10, "untilTurn": 270},
+            {"yearsPerTurn":   5, "untilTurn": 360},
+            {"yearsPerTurn":   2, "untilTurn": 430},
+            {"yearsPerTurn":   1, "untilTurn": 530},
+            {"yearsPerTurn": 0.5, "untilTurn": 750}
+        ]
     }
 ]
